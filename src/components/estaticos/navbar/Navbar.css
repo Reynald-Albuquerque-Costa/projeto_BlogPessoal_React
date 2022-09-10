@@ -1,9 +1,9 @@
 .cursor{
     cursor: pointer;
-    color: white;
+    color: rgb(243, 239, 239);
 }
 
 .text-decorator-none{
     text-decoration: none;
-
+    
 }
